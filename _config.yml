@@ -1,0 +1,29 @@
+#theme: jekyll-theme-minimal
+remote_theme: daattali/beautiful-jekyll@6.0.1
+title: Sim4IA Workshop @ SIGIR 2025
+#description: Bookmark this to keep an eye on my project updates!
+
+navbar-links:
+  About: "#about"
+  Call for Participation: 
+    - Topics of Interest: "#topics-of-interest"
+    - Submission Details: "#submission-details"
+  Dates: "#dates"
+  Organizers: "#organizers"
+
+# Add the website title to the title of every page
+title-on-all-pages: true
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
