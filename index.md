@@ -24,6 +24,27 @@ To understand how and whether the evaluation of information access technology ca
 * Develop and advertise the idea of organizing a TREC/CLEF campaign that includes simulations as a core element;
 * Test an initial setting for two (micro) shared tasks designed around two IA use cases that might form the basis for the aforementioned TREC/CLEF campaign.
 
+## Micro Shared Task
+
+With this year’s workshop, we intend to define a shared task for TREC/CLEF on the basis of two micro shared tasks which we will tackle in Sim4IA.
+
+Our anticipated shared task concept is based on the fundamental
+design principle of validating user simulations instead of measuring
+system effectiveness. That is, we envision users interacting with a
+particular IA system, such as a traditional search engine (Task A)
+or a conversational system (Task B), and challenge participants to
+design and implement user simulators that can mimic the interactions of real users with these systems with a high degree of fidelity.
+The workshop features a stripped-down version of this concept,
+which we deem micro shared tasks.
+
+The following figure illustrates the general setting where participants focus on
+developing user simulators. To lower the barrier to entry and allow
+participants to focus on the more (scientifically) interesting aspects
+of the task as opposed to system engineering, we provide them with
+data, baseline systems, and baseline user configurations packaged
+in a dockerized environment. Specifically, we plan to employ the
+[SimIIR simulation framework](https://github.com/simint-ai/simiir-3). 
+
 <img src="img/sim4ia25.png"/>
 
 ## Organizers
