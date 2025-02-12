@@ -5,11 +5,12 @@ title: Sim4IA Workshop @ SIGIR 2025
 
 navbar-links:
   About: "#about"
-  Call for Participation: 
-    - Topics of Interest: "#topics-of-interest"
-    - Submission Details: "#submission-details"
-  Dates: "#dates"
+  #Call for Participation: 
+  #  - Topics of Interest: "#topics-of-interest"
+  #  - Submission Details: "#submission-details"
+  #Dates: "#dates"  
   Organizers: "#organizers"
+  Sim4IA 2024: "../sigir2024"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
