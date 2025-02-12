@@ -24,7 +24,7 @@ To understand how and whether the evaluation of information access technology ca
 * Develop and advertise the idea of organizing a TREC/CLEF campaign that includes simulations as a core element;
 * Test an initial setting for two (micro) shared tasks designed around two IA use cases that might form the basis for the aforementioned TREC/CLEF campaign.
 
-<img src="img/concept.png" width="450"/>
+<img src="img/sim4ia25.png"/>
 
 ## Organizers
 
