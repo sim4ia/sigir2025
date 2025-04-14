@@ -42,8 +42,8 @@ The following figure illustrates the general setting where participants focus on
 The primary goal of the micro shared tasks is to provide a starting point to work towards a large-scale evaluation campaign and to gain first-hand, practical experiences that are useful for the organisation of such a campaign. We feature two tasks that follow the same high-level structure: given a sequence of user interactions with an information access system as input, simulate (i.e., predict) the next action the user would take, such as the next query. Evaluation of the simulation approaches will then be based on comparing the predicted user actions against the real actions in historical interaction logs and the impact on the system’s outcome. We provide an easy-to-use and lightweight framework to conduct hands-on user simulations based on the latest version (v3) of the SimIIR framework. The datasets used are based on samples of log data from the CORE platform and the corresponding LongEval collection. 
 
 Participants are asked to submit two things:
-- A SimIIR-compatible implementation of their user simulations ([Task A](#task-a))
-- A short lab note describing the submission ([Task B](#task-b))
+- A SimIIR-compatible implementation of their user simulations ([Task A](#task-a), [Task B](#task-b))
+- A short lab note describing the submission
 
 The workshop will discuss the submissions and ideas for the next steps or evaluation measures.
 
