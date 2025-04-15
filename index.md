@@ -47,6 +47,8 @@ Participants are asked to submit two things:
 
 The workshop will discuss the submissions and ideas for the next steps or evaluation measures.
 
+Non-binding expression of interest to take part in the micro shared tasks (please submit by 1st May): [Google Form](https://forms.gle/ftV8cwjywHWsBhCw9)
+
 ### Task A
 
 Task A focuses on simulating users’ query behaviour in an interactive retrieval task. The objective is to develop user agents that align well with the query variations over sessions derived from the provided CORE log files. We will provide participants with an initial query, a corresponding BM25-based SERP, and some user interactions with this SERP. From there, participants should try to predict the following query formulated by the user. We will evaluate the predicted queries by comparing them with the real following queries and by calculating session-based metrics like SDCG. 
