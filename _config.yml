@@ -5,10 +5,10 @@ title: Sim4IA Workshop @ SIGIR 2025
 
 navbar-links:
   About: "#about"
-  #Call for Participation: 
+  Micro Shared Task: "#micro-shared-task" 
   #  - Topics of Interest: "#topics-of-interest"
-  #  - Submission Details: "#submission-details"
-  #Dates: "#dates"  
+  #  - Submission Details: "#submission-details"  
+  Dates: "#dates"  
   Organizers: "#organizers"
   Sim4IA 2024: "../sigir2024"
 
