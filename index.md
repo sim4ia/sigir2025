@@ -9,7 +9,7 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
-- 16 May 2025: We released the [training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)! Check it out.
+- 16 May 2025: We released the [training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)! Check it out. More [information on the micro shared task](#micro-shared-task) is available.
 
 ## About
 
