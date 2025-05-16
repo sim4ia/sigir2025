@@ -28,6 +28,23 @@ To understand how and whether the evaluation of information access technology ca
 * Develop and advertise the idea of organizing a TREC/CLEF campaign that includes simulations as a core element;
 * Test an initial setting for two (micro) shared tasks designed around two IA use cases that might form the basis for the aforementioned TREC/CLEF campaign.
 
+## Tentative Schedule
+
+| Time        | Agenda                                              |
+|-------------|-----------------------------------------------------|
+| 9:00-9:15   | Welcome                                             |
+| 9:15-10:00  | Keynote  by Christine Bauer                         |
+| 10:00-10:30 | Invited tech talks on toolkits and infrastructure   |
+| 10:30-11:00 | Coffee break                                        |
+| 11:00-12:00 | Panel discussion                                    |
+| 12:00-12:30 | Overview talk on [shared tasks](#micro-shared-task) |
+| 12:30-13:30 | Lunch break                                         |
+| 13:30-14:15 | Lightning talks on shared tasks                     |
+| 14:15-15:00 | Breakout group discussions pt 1                     |
+| 15:00-15:30 | Coffee break                                        |
+| 15:30-16:15 | Breakout group discussions pt 2                     |
+| 16:15-17:00 | Reports of the group discussions and closing        |
+
 ## Micro Shared Task
 Our shared task concept is based on the fundamental design principle of validating user simulations instead of measuring system effectiveness. We envision users interacting with a particular IA system, such as a traditional search engine (Task A) or a conversational system (Task B). We challenge participants to design and implement user simulators that can mimic the interactions of real users with these systems with a high degree of fidelity.
 The workshop features a stripped-down version of this concept, a micro shared task.
