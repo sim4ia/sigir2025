@@ -9,7 +9,8 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
-- 16 May 2025: We released the [training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)! Check it out. More [information on the micro shared task](#micro-shared-task) is available.
+- 16 May 2025: We released the **[training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)**! Check it out. More [information on the micro shared task](#micro-shared-task) is available.
+- 15 April 2025: Join the Sim4IA workshop at the **[ACM SIGIR Slack](http://acmsigir.slack.com)** on #sigir2025-sim4ai-workshop! Contact the organizers if you need an invite.
 
 ## About
 
@@ -81,7 +82,7 @@ The datasets used are based on samples of log data from the [CORE scientific sea
 Both tasks are closely aligned with the design of the recently released [SimIIR 3 framework](https://github.com/simint-ai/simiir-3). SimIIR 3 enables the simulation of both conversational users and users in traditional ad hoc retrieval systems, providing the advantage of operating within a unified ecosystem rather than relying on multiple frameworks. With its latest version, SimIIR now supports large language models (LLMs) for all existing user actions. However, participants are also encouraged to explore alternative methods, such as sophisticated rule-based or probabilistic approaches, as valid submissions for the workshop.
 
 To lower the barrier to entry and allow participants to focus on the more (scientifically) interesting aspects of the task as opposed to system engineering, we provide a 
-- **[Clone Pre-configured SimIIR simulation framework](https://github.com/sim4ia/sigir2025-shared-task)** packaged in a dockerized environment.
+- **[Pre-configured SimIIR simulation framework](https://github.com/sim4ia/sigir2025-shared-task)** packaged in a dockerized environment.
 
 Participants can use their own simulation frameworks as well. 
 
@@ -93,7 +94,7 @@ We encourage all participants of the micro shared tasks to summarize their simul
 We therefore ask participants to submit the following:
 - Top 10 predictions for the tasks A1, A2, and/or B. 
 - A short lab note describing the submission
-- A SimIIR-compatible implementation of their user simulations ([Task A](#task-a), [Task B](#task-b))
+- A SimIIR-compatible implementation of their user simulations
 
 ## Dates
 
