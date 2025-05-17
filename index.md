@@ -92,7 +92,9 @@ The data for task B looks like this:
 ### Data 
 The datasets used are based on samples of log data from the [CORE scientific search platform](https://core.ac.uk/) and the corresponding [LongEval-Sci document collection](https://clef-longeval.github.io/data/). 
 
-- **[Training data](https://github.com/sim4ia/sigir2025-shared-task)**: 45 search sessions (queries, SERPs, and clicks) for task A1 and A2; 45 conversations for task B.
+- **Training data**
+  - [45 search sessions](https://github.com/sim4ia/sigir2025-shared-task/blob/main/simiir/predetermined_queries_Task_A.csv) (queries, SERPs, and clicks) for tasks A1 and A2;
+  - [45 user sessions and their user utterances](https://github.com/sim4ia/sigir2025-shared-task/blob/main/example_data/predetermined_utterances.json) + [user utterances and system responses](https://github.com/sim4ia/sigir2025-shared-task/blob/main/example_data/predetermined_utterance_response_pairs.json) for task B.
 - Test data to be released on 13th June 2025. In the test data, we will mask query t_n+1. 
 
 ### Simulation Framework
