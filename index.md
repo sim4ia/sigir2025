@@ -10,7 +10,7 @@ Interactive and engaging Workshop on Simulations for Information Access at [SIGI
 
 ## Updates
 - 16 May 2025: We released the **[training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)**! Check it out. More [information on the micro shared task](#micro-shared-task) is available.
-- 15 May 2025: Christine Bauer confirmed to give a [keynote](#keynote) on "From toy models to tactics: What user simulation is good for". 
+- 15 May 2025: We are happy to announce that Christine Bauer has confirmed to give a [keynote](#keynote) on "From toy models to tactics: What user simulation is good for". 
 - 15 April 2025: Join the Sim4IA workshop at the **[ACM SIGIR Slack](http://acmsigir.slack.com)** on #sigir2025-sim4ai-workshop! Contact the organizers if you need an invite.
 
 ## About
@@ -50,7 +50,7 @@ To understand how and whether the evaluation of information access technology ca
 
 ### Christine Bauer - From toy models to tactics: What user simulation is good for
 <img src="img/chb_headshot_zoomed.jpg" width="150" style="float:right" hspace="10" />
-Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg. She is involved in the EXDIGIT initiative, emphasizing interdisciplinary technologies in digital sciences. Her research lies at the intersection of human-centered computing, data science, and artificial intelligence — with a focus on context-aware recommender systems, particularly in the music and media domains. Her core interests include fairness and multi-method evaluation. Her multidisciplinary background drives her research activities. For more, visit https://christinebauer.eu.
+Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg. She is involved in the EXDIGIT initiative, emphasizing interdisciplinary technologies in digital sciences. Her research lies at the intersection of human-centered computing, data science, and artificial intelligence — with a focus on context-aware recommender systems, particularly in the music and media domains. Her core interests include fairness and multi-method evaluation. Her multidisciplinary background drives her research activities. For more, visit [her website](https://christinebauer.eu).
 <!--She holds a Doctoral degree in Social and Economic Sciences (Business Informatics), a Diploma (equivalent to a Master’s) degree in International Business Administration, and Master’s degree in Business Informatics. Additionally, she studied Jazz Saxophone. She serves on the Editorial Boards of ACM Transactions on Recommender Systems (TORS), ACM Transactions on Information Systems (TOIS), and Information Technology & Tourism (JITT), and is active in initiatives like Women in Music Information Retrieval (WiMIR). Christine has received several best paper awards and recognitions for her reviewing activities. -->
 
 <details>
