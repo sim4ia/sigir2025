@@ -128,6 +128,21 @@ We therefore ask participants to submit the following:
 - A short lab note describing the submission
 - A SimIIR-compatible implementation of their user simulations
 
+# Sim4IA Setup Guide
+
+Here is a short tutorial on how to set up SimIIR in GitHub Codespaces:
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/6F-wpNYn_6U" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+For initial testing, we provide a tutorial here showing how you can easily try out the tasks using SimIIR and GitHub Codespaces.
+However, due to the hardware limitations of Codespaces, we recommend running your simulations in a local Docker container for more robust experiments.
+
 ## Dates
 
 - 16th May 2025: Release of the training dataset and Docker SimIIR package
