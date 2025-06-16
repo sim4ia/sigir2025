@@ -9,6 +9,7 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
+- 14 June 2025: The **[test data collection is available](https://github.com/sim4ia/sigir2025-shared-task#about-the-data)**! More details on the submissions will follow. 
 - 16 May 2025: We released the **[training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)**! Check it out. More [information on the micro shared task](#micro-shared-task) is available.
 - 15 May 2025: We are happy to announce that Christine Bauer has confirmed to give a [keynote](#keynote) on "From toy models to tactics: What user simulation is good for". 
 - 15 April 2025: Join the Sim4IA workshop at the **[ACM SIGIR Slack](http://acmsigir.slack.com)** on #sigir2025-sim4ai-workshop! Contact the organizers if you need an invite.
@@ -140,23 +141,23 @@ Here is a short tutorial on how to set up SimIIR in GitHub Codespaces:
         allowfullscreen>
 </iframe>
 
-For initial testing, we provide a tutorial here showing how you can easily try out the tasks using SimIIR and GitHub Codespaces.
+For initial testing, we provide a tutorial here that shows how to easily try out the tasks using SimIIR and GitHub Codespaces.
 However, due to the hardware limitations of Codespaces, we recommend running your simulations in a local Docker container for more robust experiments.
 
 ## Dates
 
-- 16th May 2025: Release of the training dataset and Docker SimIIR package
-- 13rd June 2025: Release of the test dataset
-- 27th June 2025: Submission deadline for simulation configurations from participants
-- 4th July 2025: Submission deadline for Lab Notes
-- 17th July 2025: Workshop at SIGIR in Padua, Italy
+- 16 May 2025: Release of the training dataset and Docker SimIIR package
+- 13 June 2025: Release of the test dataset
+- 27 June 2025: Submission deadline for simulation configurations from participants
+- 4 July 2025: Submission deadline for Lab Notes
+- 17 July 2025: Workshop at SIGIR in Padua, Italy
 
 ## Registration
 
 The workshop will be in person. Every participant who would like to take part in the workshop must register via the official [SIGIR registration portal](https://sigir2025.dei.unipd.it/registration.html).
 
-- Early registration deadline: May 20, 2025.
-- Standard registration deadline: June 13, 2025.
+- Early registration deadline: 20 May, 2025.
+- Standard registration deadline: 13 June, 2025.
 - Late registration deadline: 18 July 2025.
 
 We look forward to meeting you in Padua!
