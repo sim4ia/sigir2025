@@ -9,7 +9,7 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
-- 14 June 2025: The **[test data collection is available](https://github.com/sim4ia/sigir2025-shared-task#about-the-data)**! More details on the submissions will follow. 
+- 14 June 2025: The **[test data collection is available](https://github.com/sim4ia/sigir2025-shared-task#about-the-data)**! We also included more details on the [submission process](https://github.com/sim4ia/sigir2025-shared-task#submission-guideline). 
 - 16 May 2025: We released the **[training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)**! Check it out. More [information on the micro shared task](#micro-shared-task) is available.
 - 15 May 2025: We are happy to announce that Christine Bauer has confirmed to give a [keynote](#keynote) on "From toy models to tactics: What user simulation is good for". 
 - 15 April 2025: Join the Sim4IA workshop at the **[ACM SIGIR Slack](http://acmsigir.slack.com)** on #sigir2025-sim4ai-workshop! Contact the organizers if you need an invite.
@@ -128,6 +128,8 @@ We therefore ask participants to submit the following:
 - Top 10 predictions for the tasks A1, A2, and/or B. 
 - A short lab note describing the submission
 - A SimIIR-compatible implementation of their user simulations
+
+See the [submission guidelines](https://github.com/sim4ia/sigir2025-shared-task#submission-guideline) for details.
 
 # Sim4IA Setup Guide
 
