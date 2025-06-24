@@ -9,6 +9,7 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
+- 23 June 2025: The list of panelists is now available. Welcome, Nicola Ferro, Ian Soboroff, Mohammad Aliannejadi, and Christine Bauer, to our panel discussion. 
 - 20 June 2025: The index for Task A has been updated and now covers all documents that were interacted with and could be retrieved via the Core API. The download link in the [README.md](https://github.com/sim4ia/sigir2025-shared-task/blob/main/README.md#installation) has already been updated accordingly.
 - 14 June 2025: The **[test data collection is available](https://github.com/sim4ia/sigir2025-shared-task#about-the-data)**! We also included more details on the [submission process](https://github.com/sim4ia/sigir2025-shared-task#submission-guideline). 
 - 16 May 2025: We released the **[training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)**! Check it out. More [information on the micro shared task](#micro-shared-task) is available.
@@ -36,7 +37,7 @@ To understand how and whether the evaluation of information access technology ca
 | Time        | Agenda                                              |
 |-------------|-----------------------------------------------------|
 | 9:00-9:15   | Welcome                                             |
-| 9:15-10:00  | [Keynote](#keynote) by Christine Bauer                         |
+| 9:15-10:00  | [Keynote](#keynote) by Christine Bauer              |
 | 10:00-10:30 | Invited tech talks on toolkits and infrastructure   |
 | 10:30-11:00 | Coffee break                                        |
 | 11:00-12:00 | Panel discussion                                    |
@@ -48,9 +49,7 @@ To understand how and whether the evaluation of information access technology ca
 | 15:30-16:15 | Breakout group discussions pt 2                     |
 | 16:15-17:00 | Reports of the group discussions and closing        |
 
-## Keynote
-
-### Christine Bauer - From toy models to tactics: What user simulation is good for
+### Keynote: Christine Bauer - From toy models to tactics: What user simulation is good for
 <img src="img/chb_headshot_zoomed.jpg" width="150" style="float:right" hspace="10" />
 Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg. She is involved in the EXDIGIT initiative, emphasizing interdisciplinary technologies in digital sciences. Her research lies at the intersection of human-centered computing, data science, and artificial intelligence — with a focus on context-aware recommender systems, particularly in the music and media domains. Her core interests include fairness and multi-method evaluation. Her multidisciplinary background drives her research activities. For more, visit [her website](https://christinebauer.eu).
 <!--She holds a Doctoral degree in Social and Economic Sciences (Business Informatics), a Diploma (equivalent to a Master’s) degree in International Business Administration, and Master’s degree in Business Informatics. Additionally, she studied Jazz Saxophone. She serves on the Editorial Boards of ACM Transactions on Recommender Systems (TORS), ACM Transactions on Information Systems (TOIS), and Information Technology & Tourism (JITT), and is active in initiatives like Women in Music Information Retrieval (WiMIR). Christine has received several best paper awards and recognitions for her reviewing activities. -->
@@ -59,6 +58,15 @@ Christine Bauer is a Professor of Interactive Intelligent Systems at the Departm
   <summary><strong>Abstract of the keynote (click to expand)</strong></summary>
   Simulations of user interactions play an increasingly important role in information access research. While creating realistic user models that closely mimic real user behavior remains a complex and often elusive goal, simulations with simplified user models can still offer valuable insights. In this talk, I argue that the purpose of user simulations is not always to perfectly replicate real users, but to help us reason about system behavior under varied, often extreme conditions. Simulations allow us to explore questions that user studies or logs alone cannot answer — such as probing the interplay between system components or studying potential long-term effects. At the same time, simulation is not a shortcut—it requires thoughtful consideration of assumptions, objectives, and what level of realism is necessary. I will discuss how toy models can be used to lead to tactical insights, what we lose (and gain) in abstraction, and how simulations can support the design of information access systems that are not just optimized for a narrow set of use cases, but are robust across a range of possible user behaviors.
 </details>
+
+## Panel discussion 
+
+- [Nicola Ferro](https://www.dei.unipd.it/~ferro/), University of Padua
+- [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
+- [Mohammad Aliannejadi](https://www.uva.nl/en/profile/a/l/m.aliannejadi/m.alian-nejadi.html), University of Amsterdam
+- [Christine Bauer](https://christinebauer.eu/), University of Salzburg
+  
+Krisztian Balog will moderate the panel.
 
 ## Micro Shared Task
 Our shared task concept is based on the fundamental design principle of validating user simulations instead of measuring system effectiveness. We envision users interacting with a particular IA system, such as a traditional search engine (Task A) or a conversational system (Task B). We challenge participants to design and implement user simulators that can mimic the interactions of real users with these systems with a high degree of fidelity.
