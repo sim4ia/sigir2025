@@ -37,10 +37,10 @@ To understand how and whether the evaluation of information access technology ca
 | Time        | Agenda                                              |
 |-------------|-----------------------------------------------------|
 | 9:00-9:15   | Welcome                                             |
-| 9:15-10:00  | [Keynote](#keynote) by Christine Bauer              |
-| 10:00-10:30 | Invited tech talks on toolkits and infrastructure   |
+| 9:15-10:00  | [Keynote](#keynote-christine-bauer---from-toy-models-to-tactics-what-user-simulation-is-good-for) by Christine Bauer              |
+| 10:00-10:30 | [Invited tech talks on toolkits and infrastructure](#tech-talks)   |
 | 10:30-11:00 | Coffee break                                        |
-| 11:00-12:00 | Panel discussion                                    |
+| 11:00-12:00 | [Panel discussion](#panel-discussion)                                    |
 | 12:00-12:30 | Overview talk on [shared tasks](#micro-shared-task) |
 | 12:30-13:30 | Lunch break                                         |
 | 13:30-14:15 | Lightning talks on shared tasks                     |
@@ -49,7 +49,7 @@ To understand how and whether the evaluation of information access technology ca
 | 15:30-16:15 | Breakout group discussions pt 2                     |
 | 16:15-17:00 | Reports of the group discussions and closing        |
 
-### Keynote: Christine Bauer - From toy models to tactics: What user simulation is good for
+### Keynote by Christine Bauer - From toy models to tactics: What user simulation is good for
 <img src="img/chb_headshot_zoomed.jpg" width="150" style="float:right" hspace="10" />
 Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg. She is involved in the EXDIGIT initiative, emphasizing interdisciplinary technologies in digital sciences. Her research lies at the intersection of human-centered computing, data science, and artificial intelligence — with a focus on context-aware recommender systems, particularly in the music and media domains. Her core interests include fairness and multi-method evaluation. Her multidisciplinary background drives her research activities. For more, visit [her website](https://christinebauer.eu).
 <!--She holds a Doctoral degree in Social and Economic Sciences (Business Informatics), a Diploma (equivalent to a Master’s) degree in International Business Administration, and Master’s degree in Business Informatics. Additionally, she studied Jazz Saxophone. She serves on the Editorial Boards of ACM Transactions on Recommender Systems (TORS), ACM Transactions on Information Systems (TOIS), and Information Technology & Tourism (JITT), and is active in initiatives like Women in Music Information Retrieval (WiMIR). Christine has received several best paper awards and recognitions for her reviewing activities. -->
@@ -59,7 +59,7 @@ Christine Bauer is a Professor of Interactive Intelligent Systems at the Departm
   Simulations of user interactions play an increasingly important role in information access research. While creating realistic user models that closely mimic real user behavior remains a complex and often elusive goal, simulations with simplified user models can still offer valuable insights. In this talk, I argue that the purpose of user simulations is not always to perfectly replicate real users, but to help us reason about system behavior under varied, often extreme conditions. Simulations allow us to explore questions that user studies or logs alone cannot answer — such as probing the interplay between system components or studying potential long-term effects. At the same time, simulation is not a shortcut—it requires thoughtful consideration of assumptions, objectives, and what level of realism is necessary. I will discuss how toy models can be used to lead to tactical insights, what we lose (and gain) in abstraction, and how simulations can support the design of information access systems that are not just optimized for a narrow set of use cases, but are robust across a range of possible user behaviors.
 </details>
 
-### Panel discussion 
+### Panel Discussion 
 
 - [Nicola Ferro](https://www.dei.unipd.it/~ferro/), University of Padua
 - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
@@ -67,6 +67,11 @@ Christine Bauer is a Professor of Interactive Intelligent Systems at the Departm
 - [Christine Bauer](https://christinebauer.eu/), University of Salzburg
   
 Krisztian Balog will moderate the panel.
+
+### Tech Talks
+
+- [Marcel Gohsen](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/gohsen/): A step towards the interactive shared task
+- [Saber Zerhoudi](https://www.fim.uni-passau.de/data-science/team/details?config_id=a8d16e612076595e5b55aa227262539d&group_id=&module=TemplatePersondetails&range_id=fe6270326db54a4fa75c5fe1a5eaea48&target=141012&username=zerhou01&cHash=ea6a6288159bb1fc9cfaa35d76328c48): Simulators Meet Agents: Towards a Hybrid User Search Simulation
 
 ## Micro Shared Task
 Our shared task concept is based on the fundamental design principle of validating user simulations instead of measuring system effectiveness. We envision users interacting with a particular IA system, such as a traditional search engine (Task A) or a conversational system (Task B). We challenge participants to design and implement user simulators that can mimic the interactions of real users with these systems with a high degree of fidelity.
