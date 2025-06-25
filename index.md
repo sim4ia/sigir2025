@@ -37,7 +37,7 @@ To understand how and whether the evaluation of information access technology ca
 | Time        | Agenda                                              |
 |-------------|-----------------------------------------------------|
 | 9:00-9:15   | Welcome                                             |
-| 9:15-10:00  | [Keynote](#keynote-christine-bauer---from-toy-models-to-tactics-what-user-simulation-is-good-for) by Christine Bauer              |
+| 9:15-10:00  | [Keynote](#keynote-by-christine-bauer---from-toy-models-to-tactics-what-user-simulation-is-good-for) by Christine Bauer              |
 | 10:00-10:30 | [Invited tech talks on toolkits and infrastructure](#tech-talks)   |
 | 10:30-11:00 | Coffee break                                        |
 | 11:00-12:00 | [Panel discussion](#panel-discussion)                                    |
