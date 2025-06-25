@@ -9,11 +9,12 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
+- 25 June 2025: The preliminary list of [tech talks](#tech-talks) is now available.
 - 23 June 2025: The list of panelists is now available. Welcome, Nicola Ferro, Ian Soboroff, Mohammad Aliannejadi, and Christine Bauer, to our [panel discussion](#panel-discussion). 
 - 20 June 2025: The index for Task A has been updated and now covers all documents that were interacted with and could be retrieved via the Core API. The download link in the [README.md](https://github.com/sim4ia/sigir2025-shared-task/blob/main/README.md#installation) has already been updated accordingly.
 - 14 June 2025: The **[test data collection is available](https://github.com/sim4ia/sigir2025-shared-task#about-the-data)**! We also included more details on the [submission process](https://github.com/sim4ia/sigir2025-shared-task#submission-guideline). 
 - 16 May 2025: We released the **[training data and the dockerized simulation environment](https://github.com/sim4ia/sigir2025-shared-task)**! Check it out. More [information on the micro shared task](#micro-shared-task) is available.
-- 15 May 2025: We are happy to announce that Christine Bauer has confirmed to give a [keynote](#keynote) on "From toy models to tactics: What user simulation is good for". 
+- 15 May 2025: We are happy to announce that Christine Bauer has confirmed to give a [keynote](#keynote-christine-bauer---from-toy-models-to-tactics-what-user-simulation-is-good-for) on "From toy models to tactics: What user simulation is good for". 
 - 15 April 2025: Join the Sim4IA workshop at the **[ACM SIGIR Slack](http://acmsigir.slack.com)** on #sigir2025-sim4ai-workshop! Contact the organizers if you need an invite.
 
 ## About
@@ -37,7 +38,7 @@ To understand how and whether the evaluation of information access technology ca
 | Time        | Agenda                                              |
 |-------------|-----------------------------------------------------|
 | 9:00-9:15   | Welcome                                             |
-| 9:15-10:00  | [Keynote](#keynote-by-christine-bauer---from-toy-models-to-tactics-what-user-simulation-is-good-for) by Christine Bauer              |
+| 9:15-10:00  | [Keynote](#keynote-christine-bauer---from-toy-models-to-tactics-what-user-simulation-is-good-for) by Christine Bauer              |
 | 10:00-10:30 | [Invited tech talks on toolkits and infrastructure](#tech-talks)   |
 | 10:30-11:00 | Coffee break                                        |
 | 11:00-12:00 | [Panel discussion](#panel-discussion)                                    |
@@ -49,7 +50,7 @@ To understand how and whether the evaluation of information access technology ca
 | 15:30-16:15 | Breakout group discussions pt 2                     |
 | 16:15-17:00 | Reports of the group discussions and closing        |
 
-### Keynote by Christine Bauer - From toy models to tactics: What user simulation is good for
+### Keynote: Christine Bauer - From toy models to tactics: What user simulation is good for
 <img src="img/chb_headshot_zoomed.jpg" width="150" style="float:right" hspace="10" />
 Christine Bauer is a Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg. She is involved in the EXDIGIT initiative, emphasizing interdisciplinary technologies in digital sciences. Her research lies at the intersection of human-centered computing, data science, and artificial intelligence — with a focus on context-aware recommender systems, particularly in the music and media domains. Her core interests include fairness and multi-method evaluation. Her multidisciplinary background drives her research activities. For more, visit [her website](https://christinebauer.eu).
 <!--She holds a Doctoral degree in Social and Economic Sciences (Business Informatics), a Diploma (equivalent to a Master’s) degree in International Business Administration, and Master’s degree in Business Informatics. Additionally, she studied Jazz Saxophone. She serves on the Editorial Boards of ACM Transactions on Recommender Systems (TORS), ACM Transactions on Information Systems (TOIS), and Information Technology & Tourism (JITT), and is active in initiatives like Women in Music Information Retrieval (WiMIR). Christine has received several best paper awards and recognitions for her reviewing activities. -->
