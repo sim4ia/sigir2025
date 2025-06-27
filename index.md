@@ -9,6 +9,7 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
+- 27 June 2025: Please note that the submission deadline for the run files has been extended to July 4, 2025. The date previously listed on the website was outdated. We apologize for the confusion!
 - 27 June 2025: An additional [tutorial video](#how-to-set-up-your-first-query-generator-in-simiir) on how to set up your first Query Generator in SimIIR has been added to the website. 
 - 25 June 2025: The preliminary list of [tech talks](#tech-talks) is now available.
 - 23 June 2025: The list of panelists is now available. Welcome, Nicola Ferro, Ian Soboroff, Mohammad Aliannejadi, and Christine Bauer, to our [panel discussion](#panel-discussion). 
@@ -127,7 +128,10 @@ The datasets used are based on samples of log data from the [CORE scientific sea
 - **Training data**
   - [45 search sessions](https://github.com/sim4ia/sigir2025-shared-task/blob/main/simiir/predetermined_queries_Task_A.csv) (queries, SERPs, and clicks) for tasks A1 and A2;
   - [45 user sessions and their user utterances](https://github.com/sim4ia/sigir2025-shared-task/blob/main/example_data/predetermined_utterances.json) + [user utterances and system responses](https://github.com/sim4ia/sigir2025-shared-task/blob/main/example_data/predetermined_utterance_response_pairs.json) for task B.
-- Test data to be released on 13th June 2025. In the test data, we will mask query t_n+1. 
+- **Test data**
+  - [35 search sessions](https://github.com/sim4ia/sigir2025-shared-task/blob/main/simiir/predetermined_queries_Task_A_test.csv) (queries, SERPs, and clicks) for tasks A1 and A2;
+  - [35 user sessions and their user utterances](https://github.com/sim4ia/sigir2025-shared-task/blob/main/example_data/predetermined_utterances_test.json) + [user utterances and system responses](https://github.com/sim4ia/sigir2025-shared-task/blob/main/example_data/predetermined_utterance_response_pairs_test.json) for task B.
+- In the test data, query t_n+1 is masked. 
 
 ### Simulation Framework
 Both tasks are closely aligned with the design of the recently released [SimIIR 3 framework](https://github.com/simint-ai/simiir-3). SimIIR 3 enables the simulation of both conversational users and users in traditional ad hoc retrieval systems, providing the advantage of operating within a unified ecosystem rather than relying on multiple frameworks. With its latest version, SimIIR now supports large language models (LLMs) for all existing user actions. However, participants are also encouraged to explore alternative methods, such as sophisticated rule-based or probabilistic approaches, as valid submissions for the workshop.
