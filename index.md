@@ -73,6 +73,7 @@ Krisztian Balog will moderate the panel.
 
 - [Marcel Gohsen](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/gohsen/): A step towards the interactive shared task
 - [Saber Zerhoudi](https://www.fim.uni-passau.de/data-science/team/details?config_id=a8d16e612076595e5b55aa227262539d&group_id=&module=TemplatePersondetails&range_id=fe6270326db54a4fa75c5fe1a5eaea48&target=141012&username=zerhou01&cHash=ea6a6288159bb1fc9cfaa35d76328c48): Simulators Meet Agents: Towards a Hybrid User Search Simulation
+- [Nurul Lubis](https://www.nflubis.com): ConvLab-3: A Flexible Dialogue System Toolkit Based on a Unified Data Format
 
 ## Micro Shared Task
 Our shared task concept is based on the fundamental design principle of validating user simulations instead of measuring system effectiveness. We envision users interacting with a particular IA system, such as a traditional search engine (Task A) or a conversational system (Task B). We challenge participants to design and implement user simulators that can mimic the interactions of real users with these systems with a high degree of fidelity.
