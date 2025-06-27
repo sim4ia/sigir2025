@@ -42,9 +42,10 @@ To understand how and whether the evaluation of information access technology ca
 | 10:00-10:30 | [Invited tech talks on toolkits and infrastructure](#tech-talks)   |
 | 10:30-11:00 | Coffee break                                        |
 | 11:00-12:00 | [Panel discussion](#panel-discussion)                                    |
-| 12:00-12:30 | Overview talk on [shared tasks](#micro-shared-task) |
+| 12:00-12:30 | [Invited tech talks on toolkits and infrastructure](#tech-talks)   |
 | 12:30-13:30 | Lunch break                                         |
-| 13:30-14:15 | Lightning talks on shared tasks                     |
+| 13:30-13:45 | Overview talk on [shared tasks](#micro-shared-task) |
+| 13:45-14:15 | Lightning talks on shared tasks                     |
 | 14:15-15:00 | Breakout group discussions pt 1                     |
 | 15:00-15:30 | Coffee break                                        |
 | 15:30-16:15 | Breakout group discussions pt 2                     |
