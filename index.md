@@ -9,6 +9,7 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
+- 27 June 2025: An additional [tutorial video](#How-to-set-up-your-first-Query-Generator-in-SimIIR) on how to set up your first Query Generator in SimIIR has been added to the website. 
 - 25 June 2025: The preliminary list of [tech talks](#tech-talks) is now available.
 - 23 June 2025: The list of panelists is now available. Welcome, Nicola Ferro, Ian Soboroff, Mohammad Aliannejadi, and Christine Bauer, to our [panel discussion](#panel-discussion). 
 - 20 June 2025: The index for Task A has been updated and now covers all documents that were interacted with and could be retrieved via the Core API. The download link in the [README.md](https://github.com/sim4ia/sigir2025-shared-task/blob/main/README.md#installation) has already been updated accordingly.
@@ -150,6 +151,7 @@ See the [submission guidelines](https://github.com/sim4ia/sigir2025-shared-task#
 
 # Sim4IA Setup Guide
 
+## How to set up GitHub Codespaces
 Here is a short tutorial on how to set up SimIIR in GitHub Codespaces:
 
 <iframe width="560" height="315" 
@@ -162,6 +164,21 @@ Here is a short tutorial on how to set up SimIIR in GitHub Codespaces:
 
 For initial testing, we provide a tutorial here that shows how to easily try out the tasks using SimIIR and GitHub Codespaces.
 However, due to the hardware limitations of Codespaces, we recommend running your simulations in a local Docker container for more robust experiments.
+
+## How to set up your first Query Generator in SimIIR
+
+Here is an additional short tutorial on how to set up your first query generator in SimIIR:
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/M8ogQ6qO2L8" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+If you plan to use SimIIR for your participation in the Sim4IA Workshop 2025, this short tutorial will guide you through the most relevant components for setting up your first Query Generator.
+We explain what steps you need to take and how to get started quickly. We hope this video helps you begin the task with ease and confidence. Feel free to reach out if you have any questions!
 
 ## Dates
 
