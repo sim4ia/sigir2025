@@ -9,7 +9,7 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
 
 ## Updates
-- 27 June 2025: An additional [tutorial video](#How-to-set-up-your-first-Query-Generator-in-SimIIR) on how to set up your first Query Generator in SimIIR has been added to the website. 
+- 27 June 2025: An additional [tutorial video](#how-to-set-up-your-first-query-generator-in-simiir) on how to set up your first Query Generator in SimIIR has been added to the website. 
 - 25 June 2025: The preliminary list of [tech talks](#tech-talks) is now available.
 - 23 June 2025: The list of panelists is now available. Welcome, Nicola Ferro, Ian Soboroff, Mohammad Aliannejadi, and Christine Bauer, to our [panel discussion](#panel-discussion). 
 - 20 June 2025: The index for Task A has been updated and now covers all documents that were interacted with and could be retrieved via the Core API. The download link in the [README.md](https://github.com/sim4ia/sigir2025-shared-task/blob/main/README.md#installation) has already been updated accordingly.
