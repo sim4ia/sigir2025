@@ -184,7 +184,7 @@ We explain what steps you need to take and how to get started quickly. We hope t
 
 - 16 May 2025: Release of the training dataset and Docker SimIIR package
 - 13 June 2025: Release of the test dataset
-- ~27 June~ 4 July 2025: Submission deadline for simulation configurations from participants
+- <del>27 June</del> 4 July 2025: Submission deadline for simulation configurations from participants
 - 4 July 2025: Submission deadline for Lab Notes
 - 17 July 2025: Workshop at SIGIR in Padua, Italy
 
