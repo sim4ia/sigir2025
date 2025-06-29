@@ -41,17 +41,17 @@ To understand how and whether the evaluation of information access technology ca
 |-------------|-----------------------------------------------------|
 | 9:00-9:15   | Welcome                                             |
 | 9:15-10:00  | [Keynote](#keynote-christine-bauer---from-toy-models-to-tactics-what-user-simulation-is-good-for) by Christine Bauer              |
-| 10:00-10:30 | [Invited tech talks on toolkits and infrastructure](#tech-talks)   |
-| 10:30-11:00 | Coffee break                                        |
-| 11:00-12:00 | [Panel discussion](#panel-discussion)                                    |
-| 12:00-12:30 | [Invited tech talks on toolkits and infrastructure](#tech-talks)   |
-| 12:30-13:30 | Lunch break                                         |
-| 13:30-13:45 | Overview talk on [shared tasks](#micro-shared-task) |
-| 13:45-14:15 | Lightning talks on shared tasks                     |
-| 14:15-15:00 | Breakout group discussions pt 1                     |
-| 15:00-15:30 | Coffee break                                        |
-| 15:30-16:15 | Breakout group discussions pt 2                     |
-| 16:15-17:00 | Reports of the group discussions and closing        |
+| 10:00-10:30 | [Invited tech talks on toolkits and infrastructure pt 1](#tech-talks)   |
+| 10:30-11:00 | <i>Coffee break</i>                                 |
+| 11:00-12:00 | [Panel discussion](#panel-discussion)               |
+| 12:00-12:30 | [Invited tech talks on toolkits and infrastructure pt 2](#tech-talks)   |
+| 12:30-14:00 | <i>Lunch break</i>                                  |
+| 13:00-14:30 | Workshop Posters                                    |
+| 14:30-15:15 | Overview talk on [shared tasks](#micro-shared-task) & Lightning talks on shared tasks  |
+| 15:15-16:00 | Breakout group discussions pt 1                     |
+| 16:00-16:30 | <i>Coffee break</i>                                 |
+| 16:30-17:15 | Breakout group discussions pt 2                     |
+| 17:15-18:00 | Reports of the group discussions and closing        |
 
 ### Keynote: Christine Bauer - From toy models to tactics: What user simulation is good for
 <img src="img/chb_headshot_zoomed.jpg" width="150" style="float:right" hspace="10" />
