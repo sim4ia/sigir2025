@@ -6,7 +6,7 @@ cover-img: "/img/cover-2025.jpg"
 
 ## tl;dr
 
-Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy. 
+Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy on July 17, 2025. 
 
 ## Updates
 - 27 June 2025: Please note that the submission deadline for the run files has been extended to July 4, 2025. The date previously listed on the website was outdated. We apologize for the confusion!
@@ -37,6 +37,8 @@ To understand how and whether the evaluation of information access technology ca
 
 ## Tentative Schedule
 
+Our workshop is taking place in **room PALLADIO A, floor 0**.
+
 | Time        | Agenda                                              |
 |-------------|-----------------------------------------------------|
 | 9:00-9:15   | Welcome                                             |
@@ -47,8 +49,8 @@ To understand how and whether the evaluation of information access technology ca
 | 12:00-12:30 | [Invited tech talks on toolkits and infrastructure pt 2](#tech-talks)   |
 | 12:30-14:00 | <i>Lunch break</i>                                  |
 | 13:00-14:30 | Workshop Posters                                    |
-| 14:30-15:15 | Overview talk on [shared tasks](#micro-shared-task) & Lightning talks on shared tasks  |
-| 15:15-16:00 | Breakout group discussions pt 1                     |
+| 14:30-15:00 | Overview talk on [shared tasks](#micro-shared-task) & [Lightning talks on shared tasks](#lightning-talks-on-shared-tasks)  |
+| 15:00-16:00 | Breakout group discussions pt 1                     |
 | 16:00-16:30 | <i>Coffee break</i>                                 |
 | 16:30-17:15 | Breakout group discussions pt 2                     |
 | 17:15-18:00 | Reports of the group discussions and closing        |
@@ -74,11 +76,22 @@ Krisztian Balog will moderate the panel.
 
 ### Tech Talks
 
+Tech talks are scheduled to take 10 minutes + Q&A.
+
 - [Marcel Gohsen](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/gohsen/): A step towards the interactive shared task
 - [Saber Zerhoudi](https://www.fim.uni-passau.de/data-science/team/details?config_id=a8d16e612076595e5b55aa227262539d&group_id=&module=TemplatePersondetails&range_id=fe6270326db54a4fa75c5fe1a5eaea48&target=141012&username=zerhou01&cHash=ea6a6288159bb1fc9cfaa35d76328c48): Simulators Meet Agents: Towards a Hybrid User Search Simulation
 - [Nurul Lubis](https://www.nflubis.com): ConvLab-3: A Flexible Dialogue System Toolkit Based on a Unified Data Format
 
+### Lightning Talks on Shared Tasks
+
+Lightning talks on participations of shared tasks are scheduled to take 5 minutes.
+
+- *Webis* presented by [Marcel Gohsen](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/gohsen/)
+- *CIR* presented by [Andreas Kruff](https://ir.web.th-koeln.de/people/andreas-kruff/)
+- *THM* presented by [Christin Kreutz](https://kreutzch.github.io/)
+
 ## Micro Shared Task
+
 Our shared task concept is based on the fundamental design principle of validating user simulations instead of measuring system effectiveness. We envision users interacting with a particular IA system, such as a traditional search engine (Task A) or a conversational system (Task B). We challenge participants to design and implement user simulators that can mimic the interactions of real users with these systems with a high degree of fidelity.
 The workshop features a stripped-down version of this concept, a micro shared task.
 
