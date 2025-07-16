@@ -81,6 +81,7 @@ Tech talks are scheduled to take 10 minutes + Q&A.
 - [Marcel Gohsen](https://www.uni-weimar.de/en/media/chairs/computer-science-department/webis/people/gohsen/): A step towards the interactive shared task
 - [Saber Zerhoudi](https://www.fim.uni-passau.de/data-science/team/details?config_id=a8d16e612076595e5b55aa227262539d&group_id=&module=TemplatePersondetails&range_id=fe6270326db54a4fa75c5fe1a5eaea48&target=141012&username=zerhou01&cHash=ea6a6288159bb1fc9cfaa35d76328c48): Simulators Meet Agents: Towards a Hybrid User Search Simulation
 - [Nurul Lubis](https://www.nflubis.com): ConvLab-3: A Flexible Dialogue System Toolkit Based on a Unified Data Format
+- [Krisztian Balog](https://krisztianbalog.com/): UserSimCRS v2
 
 ### Lightning Talks on Shared Tasks
 
