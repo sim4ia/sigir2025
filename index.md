@@ -9,6 +9,7 @@ cover-img: "/img/cover-2025.jpg"
 Interactive and engaging Workshop on Simulations for Information Access at [SIGIR 2025](https://sigir2025.dei.unipd.it/) in Padua, Italy on July 17, 2025. 
 
 ## Updates
+- [**UserSim** channel in SIGIR Slack](https://app.slack.com/client/T3C5JRJQ2/C096GH6EUM7)
 - 27 June 2025: Please note that the submission deadline for the run files has been extended to July 4, 2025. The date previously listed on the website was outdated. We apologize for the confusion!
 - 27 June 2025: An additional [tutorial video](#how-to-set-up-your-first-query-generator-in-simiir) on how to set up your first Query Generator in SimIIR has been added to the website. 
 - 25 June 2025: The preliminary list of [tech talks](#tech-talks) is now available.
